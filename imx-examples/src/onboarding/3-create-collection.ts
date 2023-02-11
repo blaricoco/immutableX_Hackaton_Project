@@ -35,13 +35,13 @@ const component = '[IMX-CREATE-COLLECTION]';
    * Edit your values here
    */
   const params: CreateCollectionParams = {
-    name: 'ENTER_COLLECTION_NAME',
-    // description: 'ENTER_COLLECTION_DESCRIPTION (OPTIONAL)',
+    name: 'Mushi Trip',
+    description: 'Collection of trippy mushrooms!',
     contract_address: collectionContractAddress,
     owner_public_key: ownerPublicKey,
     // icon_url: '',
-    // metadata_api_url: '',
-    // collection_image_url: '',
+    metadata_api_url: 'https://gateway.pinata.cloud/ipfs/QmNXnQKoY1MSEGuiBffiWF1ZZPLvXESGo92C2CmFZbu1ZN',
+    collection_image_url: 'https://gateway.pinata.cloud/ipfs/QmcZyrsrY1pjhyKfue1ZbKiV1qU2Pxu58bsVim5q21DJCq',
     project_id: parseInt(projectId, 10),
   };
 
