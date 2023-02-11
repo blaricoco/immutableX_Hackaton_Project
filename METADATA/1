@@ -1,0 +1,9 @@
+{
+  "name": "1st NFT",
+  "description": "This is your 1st nft",
+  "image_url":"https://gateway.pinata.cloud/ipfs/QmcZyrsrY1pjhyKfue1ZbKiV1qU2Pxu58bsVim5q21DJCq",
+  "attack": 123,
+  "collectable": true,
+  "class": "EnumValue1"   
+}
+
