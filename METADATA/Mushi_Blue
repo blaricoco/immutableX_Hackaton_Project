@@ -1,0 +1,10 @@
+{
+  "name": "Mushi_Blue",
+  "description": "Mushroom with the blue",
+  "image_url":"https://gateway.pinata.cloud/ipfs/QmabBkHobqBJjcjJeCtqgFhv6sBn27j7KRhNgUvmP6jsTW",
+  "speed": 2,
+  "resistance": 7,
+  "collectable": true,
+  "class": "baseMushi"   
+}
+

@@ -1,0 +1,10 @@
+{
+  "name": "Mushi_Purple_Wing",
+  "description": "Mushroom with wings",
+  "image_url":"https://gateway.pinata.cloud/ipfs/QmUoEuF1a6Kp4zwjNa3bL76oG7x8WSBuE9FYw8yFYnJp5c",
+  "speed": 8,
+  "resistance": 3,
+  "collectable": true,
+  "class": "baseMushi"   
+}
+

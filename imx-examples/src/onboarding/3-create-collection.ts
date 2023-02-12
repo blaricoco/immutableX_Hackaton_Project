@@ -39,9 +39,9 @@ const component = '[IMX-CREATE-COLLECTION]';
     description: 'Collection of trippy mushrooms!',
     contract_address: collectionContractAddress,
     owner_public_key: ownerPublicKey,
-    // icon_url: '',
-    metadata_api_url: 'https://gateway.pinata.cloud/ipfs/QmNXnQKoY1MSEGuiBffiWF1ZZPLvXESGo92C2CmFZbu1ZN',
-    collection_image_url: 'https://gateway.pinata.cloud/ipfs/QmcZyrsrY1pjhyKfue1ZbKiV1qU2Pxu58bsVim5q21DJCq',
+    icon_url: 'https://gateway.pinata.cloud/ipfs/QmV1rFYqvDPSNYZrKuYrd9TginW4CxFCm6XVjXVJ5vTqcX',
+    metadata_api_url: 'https://gateway.pinata.cloud/ipfs/QmWeUGLWkNLW6QzqrtuYRhkHBkLCEH7gZfREQLf72uwMyg',
+    collection_image_url: 'https://gateway.pinata.cloud/ipfs/QmV1rFYqvDPSNYZrKuYrd9TginW4CxFCm6XVjXVJ5vTqcX',
     project_id: parseInt(projectId, 10),
   };
 

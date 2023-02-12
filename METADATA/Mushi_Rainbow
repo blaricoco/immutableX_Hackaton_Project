@@ -1,0 +1,10 @@
+{
+  "name": "Mushi_Rainbow",
+  "description": "Mushroom with the rainbow",
+  "image_url":"https://gateway.pinata.cloud/ipfs/QmZozcFvzRHYmhf6Ay1dpau2fy9MvB5RwHthCpv3xn6X4P",
+  "speed": 3,
+  "resistance": 3,
+  "collectable": true,
+  "class": "baseMushi"   
+}
+

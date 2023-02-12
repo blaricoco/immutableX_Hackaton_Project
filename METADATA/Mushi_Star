@@ -1,0 +1,10 @@
+{
+  "name": "Mushi_Star",
+  "description": "Mushroom with a star",
+  "image_url":"https://gateway.pinata.cloud/ipfs/QmYE62QWaqDCDayFNUsBWvYhL3ysrjUSd58fdtq2euueRX",
+  "speed": 5,
+  "resistance": 5,
+  "collectable": true,
+  "class": "baseMushi"   
+}
+

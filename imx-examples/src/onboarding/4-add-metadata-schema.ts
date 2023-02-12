@@ -55,7 +55,12 @@ const component = '[IMX-ADD-COLLECTION-METADATA-SCHEMA]';
         type :  MetadataTypes.Text  
       },
       {
-        name :  'attack' ,
+        name :  'speed' ,
+        type :  MetadataTypes.Discrete,
+        filterable : true
+      },
+      {
+        name :  'resistance' ,
         type :  MetadataTypes.Discrete,
         filterable : true
       },

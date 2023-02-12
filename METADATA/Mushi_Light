@@ -1,0 +1,10 @@
+{
+  "name": "Mushi_Light",
+  "description": "Mushroom super light",
+  "image_url":"https://gateway.pinata.cloud/ipfs/QmRqiEHXKwcVLkQsA8cKng5niRMrTxYkRMVYLumfqKR26X",
+  "speed": 7,
+  "resistance": 2,
+  "collectable": true,
+  "class": "baseMushi"   
+}
+
